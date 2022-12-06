@@ -1,6 +1,6 @@
-# news_provider
+# proyecto_final
 
-Aplicación para visualizar noticias aplicando gestor de estados provider
+Proyecto final de curso flutter cognos
 
 ## Getting Started
 
